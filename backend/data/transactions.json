@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "description": "Salary",
+    "category": "Income",
+    "amount": 5000,
+    "date": "2023-06-01"
+  },
+  {
+    "id": "2",
+    "userId": "1",
+    "description": "Rent",
+    "category": "Expense",
+    "amount": 1200,
+    "date": "2023-06-05"
+  },
+  {
+    "id": "3",
+    "userId": "1",
+    "description": "Groceries",
+    "category": "Expense",
+    "amount": 300,
+    "date": "2023-06-10"
+  },
+  {
+    "id": "4",
+    "userId": "2",
+    "description": "Freelance Project",
+    "category": "Income",
+    "amount": 1500,
+    "date": "2023-06-15"
+  },
+  {
+    "id": "5",
+    "userId": "2",
+    "description": "Utilities",
+    "category": "Expense",
+    "amount": 200,
+    "date": "2023-06-20"
+  },
+  {
+    "id": "6",
+    "userId": "1",
+    "description": "pocket  money",
+    "category": "Income",
+    "amount": "500",
+    "date": "2024-07-23"
+  },
+  {
+    "id": "7",
+    "userId": "4",
+    "description": "Fodd",
+    "category": "Expense",
+    "amount": "500",
+    "date": "2024-07-23"
+  },
+  {
+    "id": "8",
+    "userId": "4",
+    "description": "eterdt",
+    "category": "Income",
+    "amount": "677",
+    "date": "2024-07-26"
+  },
+  {
+    "id": "9",
+    "userId": "5",
+    "description": "salary",
+    "category": "Income",
+    "amount": "56789890",
+    "date": "2024-07-03"
+  },
+  {
+    "id": "10",
+    "userId": "4",
+    "description": "fgsf",
+    "category": "Income",
+    "amount": "45345",
+    "date": "2024-07-25"
+  },
+  {
+    "id": "11",
+    "userId": "5",
+    "description": "gjhasdjk",
+    "category": "Income",
+    "amount": "6",
+    "date": "2024-07-24"
+  },
+  {
+    "id": "12",
+    "userId": "4",
+    "description": "nkj",
+    "category": "Income",
+    "amount": "797",
+    "date": "2024-07-24"
+  },
+  {
+    "id": "13",
+    "userId": "4",
+    "description": "hkj",
+    "category": "Income",
+    "amount": "878",
+    "date": "2024-07-24"
+  }
+]

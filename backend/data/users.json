@@ -28,5 +28,11 @@
     "username": "Likitha",
     "email": "LIkitha@gmail.com",
     "password": "123456"
+  },
+  {
+    "id": "6",
+    "username": "qw",
+    "email": "qw@gmail.com",
+    "password": "123456"
   }
 ]
